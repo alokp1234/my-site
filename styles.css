@@ -1,0 +1,159 @@
+body{
+    margin: 0;
+    text-align:center;
+    
+}
+.snow1{
+    width: 200px;
+    position: absolute;
+    left: 0px;
+    top: 490px;
+}
+.snow2{
+    width: 200px;
+    position: absolute;
+    right: 0px;
+    top: 490px;
+}
+h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 180px;
+    padding-bottom: 0px;
+    font-family:Brush Script MT;
+    font-size: 70px;
+    color: #ffdcdc;
+}
+.fortop{
+    color: #ffdcdc;
+    font-size: 2rem;
+}
+h2{
+    font-size: 2.5rem;
+    font-family: Girassol;
+    color: #536162;
+    font-weight: bold;
+    margin: 0% auto 0% auto;
+    padding-top:20px;
+   
+}
+h3{
+    font-family: Tahoma, sans-serif;
+    font-weight: bolder;
+    color:#536162 ;
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+p{
+    margin:0%;
+    padding: 10px;
+    font-size: 25px;
+    line-height: 1.5;
+    color: #6D6C6D;
+    
+}
+hr{
+    border-style: dotted none none none;
+    border-color: #ec889b;
+    border-width: 20px;
+    width: 100px;
+    
+}
+.topsection{
+     background-color:#da7f8f ;
+}
+.middle-container{
+    background-color: #dddddd;
+}
+.bottom-container{
+    background-color: #ec889b;
+   padding-top: 20px;
+}
+.design{
+    width: 30%;
+   
+}
+
+/* this is the code for adjusting the desing text */
+.only1{
+    padding-left: 30px;
+}
+
+.cloud1{
+    width: 200px;
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.cloud2{
+    width: 200px;
+    position: absolute;
+    left: 300px;
+    top: 100px;
+}
+.lang{
+    width: 18%;
+    float:right;
+    padding-left: 40px;
+ 
+}
+.design1{
+    width: 25%;
+    padding: 10px;
+
+}
+.design2{
+    width: 25%;
+    text-align: left;
+    padding: 10px;
+}
+.design3{
+    width: 25%;
+    padding: 10px;
+}
+.design{
+    width: 20%;
+    float:left;
+    margin-right:30px;
+}
+.skill-row1{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+}
+.skill-row2{
+    width: 50%;
+    margin: auto;
+    text-align: right;
+}
+.myimage{
+    padding-top: 20px;
+}
+.btn {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Girassol;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+    background: #db566e;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #919191;
+    text-decoration: none;
+  }
+  a{
+      color: #6D6C6D;
+      padding: 20px;
+  }
+  .footer-link{
+         width: 25px;
+  }
+   
+
+
+
